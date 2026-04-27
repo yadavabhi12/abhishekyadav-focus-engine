@@ -1,0 +1,1039 @@
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-23T19:13:50.886Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-23T19:13:51.319Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T19:50:02.419Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T19:50:02.801Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T20:03:55.477Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T20:03:55.811Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T20:14:58.834Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T20:14:59.196Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T20:16:10.164Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T20:16:10.529Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T20:17:59.464Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T20:17:59.787Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T20:19:25.306Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T20:19:25.641Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T20:21:11.702Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T20:21:12.045Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T20:26:19.173Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T20:26:19.506Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T20:29:41.412Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T20:29:41.765Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T20:33:03.389Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T20:33:03.736Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-24T20:39:49.309Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-24T20:39:49.660Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T05:26:05.733Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T05:26:07.090Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T05:26:22.996Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T05:26:23.457Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T05:32:24.320Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T05:32:24.663Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T09:08:35.495Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T09:08:35.861Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T10:55:38.763Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T10:55:39.106Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T15:29:03.579Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T15:29:03.980Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T15:40:12.084Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T15:40:12.416Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T15:40:22.301Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T15:40:22.634Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T15:49:50.998Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T15:49:51.349Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T15:50:03.797Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T15:50:04.125Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T15:53:43.430Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T15:53:43.779Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T16:15:37.420Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T16:15:38.742Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T16:15:42.593Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T16:15:42.915Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T16:16:08.006Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T16:16:08.340Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T16:16:13.639Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T16:16:13.992Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T16:19:40.545Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T16:19:40.885Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T16:22:24.893Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T16:22:25.231Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T16:24:59.987Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T16:25:00.309Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T16:40:24.873Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T16:40:25.194Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T17:13:30.093Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T17:13:30.429Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T17:38:48.104Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T17:38:48.448Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T17:58:34.332Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T17:58:34.704Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T18:17:44.017Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T18:17:44.361Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T18:20:26.019Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T18:20:26.356Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T18:21:25.577Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T18:21:25.912Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T18:47:41.317Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T18:47:41.691Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T19:28:43.822Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T19:28:44.149Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T19:33:25.069Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T19:33:25.396Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:05:06.374Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:05:06.718Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:07:29.913Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:07:30.240Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:07:36.107Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:07:36.439Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:12:17.931Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:12:18.253Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:13:43.672Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:13:44.016Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:16:44.227Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:16:44.567Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:20:36.431Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:20:36.756Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:21:26.211Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:21:26.558Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:58:03.196Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:58:03.525Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:58:08.717Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:58:09.052Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:58:12.879Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:58:13.228Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T20:58:15.790Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T20:58:16.125Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T21:32:18.099Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T21:32:18.449Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T21:35:42.494Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T21:35:42.826Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T21:59:38.038Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T21:59:38.376Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:01:31.518Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:01:31.860Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:02:27.729Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:02:28.106Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:08:07.738Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:08:08.119Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:08:54.508Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:08:54.876Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:10:09.618Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:10:09.954Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:12:03.874Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:12:04.234Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:14:19.731Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:14:20.082Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:17:46.795Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:17:47.339Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:18:20.104Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:18:20.435Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:19:11.605Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:19:11.956Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-25T22:31:07.317Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-25T22:31:07.690Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T00:34:29.982Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T00:34:30.318Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T00:35:31.316Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T00:35:31.677Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T00:41:02.188Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T00:41:02.513Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T00:41:18.651Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T00:41:18.998Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T07:45:40.022Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T07:45:40.384Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T18:57:34.283Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T18:57:34.672Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T21:31:23.411Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T21:31:23.759Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T21:31:46.238Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T21:31:46.582Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T21:33:35.988Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T21:33:36.335Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T22:06:14.122Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T22:06:14.505Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T22:15:07.451Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T22:15:07.790Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T22:23:29.704Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T22:23:30.074Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T22:41:06.832Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T22:41:07.203Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T22:52:23.970Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T22:52:24.330Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T22:52:26.059Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T22:52:26.402Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T22:56:27.448Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T22:56:27.808Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T22:56:29.632Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T22:56:29.990Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T22:56:44.051Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T22:56:44.422Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T23:14:03.957Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T23:14:04.334Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T23:14:51.277Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T23:14:51.672Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-26T23:15:57.826Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-26T23:15:58.196Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T10:18:52.790Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T10:18:53.215Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T10:40:18.976Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T10:40:19.342Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T10:51:08.179Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T10:51:08.528Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T10:52:12.816Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T10:52:13.208Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T10:54:20.564Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T10:54:20.904Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T10:54:22.772Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T10:54:23.097Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T11:10:34.248Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T11:10:34.618Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T14:06:31.387Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T14:06:31.761Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T18:13:13.533Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T18:13:13.920Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T18:14:35.789Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T18:14:36.173Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T18:16:09.600Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T18:16:10.337Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T19:08:30.359Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T19:08:30.803Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T19:13:14.145Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T19:13:14.800Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T19:43:57.683Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T19:43:58.095Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T19:55:54.858Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T19:55:55.251Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T19:56:31.244Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T19:56:31.609Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T20:23:43.477Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T20:23:43.865Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T20:23:52.323Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T20:23:52.743Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T20:26:26.516Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T20:26:26.876Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T20:29:48.591Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T20:29:48.950Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T21:26:23.190Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T21:26:23.560Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T21:28:47.125Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T21:28:47.512Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T21:30:02.796Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T21:30:03.164Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T21:30:09.017Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T21:30:09.390Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T21:31:23.810Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T21:31:24.177Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T22:01:47.900Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T22:01:48.300Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T22:02:15.555Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T22:02:15.931Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T22:06:26.374Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T22:06:26.735Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T22:06:31.274Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T22:06:31.646Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T22:26:49.854Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T22:26:50.216Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T22:49:35.793Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T22:49:36.158Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T22:49:52.885Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T22:49:53.256Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-27T22:49:56.853Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-27T22:49:57.212Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T20:20:36.128Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T20:20:36.593Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T20:28:34.785Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T20:28:35.155Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T22:12:23.748Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T22:12:24.118Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T22:25:32.120Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T22:25:32.481Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T22:25:50.051Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T22:25:50.480Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T22:29:43.880Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T22:29:44.252Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T22:35:28.806Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T22:35:29.176Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T22:36:35.133Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T22:36:35.517Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T22:47:22.334Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T22:47:22.720Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T22:52:02.299Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T22:52:02.665Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T22:52:39.238Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T22:52:39.623Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:02:42.162Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:02:42.527Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:02:51.320Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:02:51.698Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:03:13.363Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:03:13.725Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:03:27.864Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:03:28.251Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:05:40.220Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:05:40.613Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:05:51.499Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:05:51.875Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:06:02.776Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:06:03.148Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:06:11.678Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:06:12.073Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:06:20.561Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:06:20.917Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:06:28.711Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:06:29.097Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:06:39.787Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:06:40.150Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:06:44.935Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:06:45.286Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:06:53.465Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:06:53.838Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:06:58.565Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:06:58.929Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:07:10.958Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:07:11.363Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:07:16.351Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:07:16.724Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:07:20.888Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:07:21.276Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:07:37.767Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:07:38.139Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:07:45.578Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:07:45.937Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:07:54.997Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:07:55.367Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:08:00.503Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:08:00.906Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:08:37.884Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:08:38.264Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:23:53.561Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:23:53.954Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:24:06.055Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:24:06.426Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:25:39.454Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:25:39.833Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:26:29.559Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:26:29.921Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:26:36.044Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:26:36.418Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:27:01.041Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:27:01.430Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:27:11.891Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:27:12.288Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:27:20.589Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:27:20.971Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:27:26.321Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:27:26.720Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-28T23:27:30.098Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-28T23:27:30.487Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T17:53:48.500Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T17:53:48.920Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T18:41:16.975Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T18:41:17.561Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T18:41:46.828Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T18:41:47.427Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T18:42:35.594Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T18:42:35.993Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T18:42:58.138Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T18:42:58.489Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T18:43:25.812Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T18:43:26.163Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T18:45:06.546Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T18:45:07.138Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T18:48:05.979Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T18:48:06.318Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T18:48:54.414Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T18:48:54.764Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T18:49:47.156Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T18:49:47.510Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T18:52:05.371Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T18:52:05.722Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T19:03:01.426Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T19:03:01.897Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T19:04:24.885Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T19:04:25.270Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T19:04:50.238Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T19:04:50.671Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T19:05:24.601Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T19:05:24.991Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T19:06:03.499Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T19:06:03.858Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:24:48.793Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:24:49.176Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:25:14.345Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:25:14.722Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:25:53.618Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:25:53.994Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:26:31.657Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:26:32.058Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:26:55.450Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:26:55.860Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:27:18.939Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:27:19.327Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:28:53.913Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:28:54.396Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:29:14.140Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:29:14.499Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:30:26.063Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:30:26.456Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:31:04.332Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:31:04.721Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:31:26.548Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:31:26.933Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:31:47.455Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:31:47.911Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:31:56.692Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:31:57.050Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:32:27.751Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:32:28.149Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:33:20.752Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:33:21.127Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:33:36.492Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:33:36.884Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:33:52.868Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:33:53.252Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:34:20.669Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:34:21.040Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T20:34:58.610Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T20:34:59.499Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-29T22:06:07.352Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-29T22:06:07.767Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T00:33:24.868Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-30T00:33:25.232Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T08:43:44.250Z"}
+{"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-zrzfx9-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"service":"task-management-api","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:791:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-30T08:44:14.354Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T08:59:30.950Z"}
+{"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-zrzfx9-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"service":"task-management-api","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:791:11)","timestamp":"2025-08-30T09:00:01.005Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T09:03:46.010Z"}
+{"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-zrzfx9-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"service":"task-management-api","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:791:11)","timestamp":"2025-08-30T09:04:16.078Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T09:05:57.062Z"}
+{"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-zrzfx9-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"service":"task-management-api","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:791:11)","timestamp":"2025-08-30T09:06:27.127Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T09:08:10.106Z"}
+{"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-zrzfx9-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"service":"task-management-api","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:791:11)","timestamp":"2025-08-30T09:08:15.167Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T09:08:31.588Z"}
+{"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-zrzfx9-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"service":"task-management-api","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\yadab\\OneDrive\\Desktop\\productivity-app\\server\\node_modules\\mongoose\\lib\\connection.js:791:11)","timestamp":"2025-08-30T09:09:01.658Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T09:18:13.989Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-30T09:18:14.451Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T17:55:10.989Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-30T17:55:11.475Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T20:33:32.657Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-30T20:33:33.015Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T22:18:07.144Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-30T22:18:07.527Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T22:44:45.078Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-30T22:44:45.454Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-30T23:07:23.283Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-30T23:07:23.753Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T00:32:23.772Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T00:32:24.309Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T00:39:24.938Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T00:39:25.382Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T00:45:37.335Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T00:45:37.727Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T00:48:00.438Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T00:48:00.820Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T00:49:30.428Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T00:49:30.820Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T17:11:34.313Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T17:11:34.687Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T18:14:42.793Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T18:14:43.267Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T18:45:58.606Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T18:45:59.022Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T18:48:38.037Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T18:48:38.401Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T19:21:22.453Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T19:21:22.816Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T19:50:35.516Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T19:50:35.896Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T19:50:45.583Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T19:50:45.986Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T20:30:01.307Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T20:30:01.763Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T20:51:41.401Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T20:51:41.785Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T20:52:20.929Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T20:52:21.301Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T20:58:36.378Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T20:58:36.763Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T20:59:12.369Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T20:59:12.773Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T21:06:59.557Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T21:06:59.946Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T21:07:39.597Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T21:07:39.966Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T21:08:08.803Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T21:08:09.215Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T21:50:41.620Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T21:50:41.969Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T21:52:01.686Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T21:52:02.042Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T22:02:58.619Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T22:02:58.962Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T22:10:06.456Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T22:10:06.803Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T22:12:21.810Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T22:12:22.151Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T22:13:55.917Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T22:13:56.284Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T22:19:39.369Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T22:19:39.700Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T22:22:04.027Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T22:22:04.360Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-08-31T23:01:33.698Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-08-31T23:01:34.199Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-01T19:14:59.580Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-01T19:15:00.036Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-01T22:53:30.764Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-01T22:53:31.176Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-01T22:57:12.444Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-01T22:57:12.880Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-01T23:36:45.600Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-01T23:36:46.006Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-01T23:40:00.488Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-01T23:40:00.905Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-01T23:41:27.061Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-01T23:41:27.461Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-01T23:42:34.261Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-01T23:42:34.658Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-01T23:54:20.082Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-01T23:54:20.510Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-01T23:55:53.576Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-01T23:55:53.984Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:04:35.374Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:04:35.855Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:10:13.600Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:10:14.017Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:11:18.813Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:11:19.208Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:11:33.287Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:11:33.680Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:12:32.664Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:12:33.056Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:12:45.361Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:12:45.755Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:13:19.664Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:13:20.070Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:13:52.731Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:13:53.143Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:14:00.454Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:14:00.867Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:14:49.180Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:14:49.605Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:15:15.343Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:15:15.745Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:15:38.165Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:15:38.582Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:16:06.360Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:16:06.790Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:20:05.799Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:20:06.197Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T00:20:14.450Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T00:20:14.844Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T11:21:51.714Z"}
+{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2025-09-02T11:21:51.735Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T12:07:42.612Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T12:07:43.050Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:07:19.982Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:07:20.465Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:13:56.696Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:13:57.118Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:14:02.269Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:14:02.749Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:17:22.810Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:17:23.275Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:17:25.033Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:17:25.477Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:20:43.094Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:20:43.561Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:20:58.993Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:20:59.390Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:38:00.428Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:38:00.830Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:38:07.453Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:38:07.906Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:39:21.530Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:39:21.990Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:41:47.622Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:41:48.052Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:46:34.324Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:46:34.745Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T13:52:43.297Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T13:52:43.722Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T16:11:49.659Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T16:11:50.039Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T16:15:00.015Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T16:15:00.380Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T16:28:40.030Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T16:28:40.565Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T18:19:53.275Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T18:19:53.683Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T18:24:57.442Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T18:24:58.095Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T18:26:26.699Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T18:26:27.074Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T18:31:53.819Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T18:31:54.192Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T19:06:20.893Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:06:21.378Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T19:07:36.746Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:07:37.107Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T19:45:56.958Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:45:57.314Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T19:53:52.962Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:53:53.325Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T19:53:57.431Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:53:57.776Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T19:54:59.863Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T19:54:59.864Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:55:00.243Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:55:00.287Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T19:55:05.001Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T19:55:05.006Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:55:05.378Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:55:05.396Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T19:55:41.724Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T19:55:41.723Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:55:42.097Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:55:42.123Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T19:57:00.573Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T19:57:00.948Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T20:06:12.902Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T20:06:13.235Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T20:06:21.783Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T20:06:23.801Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T21:37:07.173Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T21:37:08.683Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T21:48:25.777Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T21:48:25.782Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T21:48:26.179Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T21:48:26.184Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T21:52:53.863Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T21:52:53.880Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T21:52:54.251Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T21:52:54.289Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T22:01:59.814Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T22:01:59.841Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:02:00.284Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:02:00.306Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T22:02:48.297Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:02:48.640Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T22:32:48.956Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T22:32:48.986Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:32:49.459Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:32:50.462Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T22:42:45.210Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T22:42:45.278Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:42:45.691Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:42:45.806Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T22:43:09.739Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T22:43:09.780Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:43:10.236Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:43:10.240Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T22:43:45.522Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T22:43:45.551Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:43:46.113Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:43:46.121Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T22:46:05.891Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T22:46:05.964Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:46:06.425Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:46:06.519Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T22:47:03.281Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-02T22:47:03.328Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:47:03.786Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T22:47:03.789Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-02T23:29:19.589Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-02T23:29:20.096Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-03T01:27:24.000Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T01:27:24.417Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-03T18:49:32.810Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T18:49:33.214Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-03T19:01:02.523Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T19:01:02.909Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-03T19:57:35.559Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T19:57:35.953Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-03T20:59:35.551Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T20:59:35.981Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-03T21:54:34.212Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T21:54:34.639Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-03T21:56:29.856Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T21:56:30.236Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-03T21:58:29.780Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T21:58:30.177Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-03T22:01:47.377Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T22:01:47.896Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-03T22:21:10.138Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T22:21:10.562Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-03T22:21:20.599Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-03T22:21:20.985Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T14:12:21.231Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T14:12:21.584Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T14:12:22.692Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T14:12:23.036Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T14:15:58.344Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T14:15:58.701Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T14:51:35.484Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T14:51:35.867Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T18:52:07.774Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T18:52:08.150Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T20:34:41.730Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T20:34:42.118Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T20:40:03.091Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T20:40:03.480Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T20:44:57.312Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T20:44:57.694Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T20:50:12.065Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T20:50:12.517Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T20:55:15.063Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T20:55:15.493Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T21:01:20.517Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T21:01:20.881Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T21:06:50.206Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T21:06:50.582Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T21:07:02.633Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T21:07:03.061Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T21:07:19.246Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T21:07:19.622Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T21:15:46.235Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T21:15:46.609Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T21:16:18.773Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T21:16:19.150Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T21:34:17.240Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T21:34:17.656Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T21:35:25.419Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T21:35:25.831Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T21:37:08.511Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T21:37:08.921Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T21:39:49.178Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T21:39:49.569Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T23:43:16.882Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T23:43:17.255Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T23:44:30.862Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T23:44:31.226Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T23:45:24.313Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T23:45:24.691Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T23:50:23.302Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T23:50:23.670Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T23:57:09.998Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T23:57:10.375Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-05T23:59:12.821Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-05T23:59:13.206Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T00:27:06.748Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T00:27:07.111Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T00:27:14.282Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T00:27:14.651Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T00:27:18.787Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T00:27:19.148Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T00:32:39.973Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T00:32:40.361Z"}
+{"level":"error","message":"Error: Only image files are allowed\n    at fileFilter (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\routes\\users.js:37:8)\n    at wrappedFileFilter (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\multer\\index.js:44:7)\n    at Multipart.<anonymous> (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\multer\\lib\\make-middleware.js:109:7)\n    at Multipart.emit (node:events:518:28)\n    at HeaderParser.cb (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)","service":"task-management-api","timestamp":"2025-09-06T00:44:15.860Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T01:00:20.771Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:00:21.226Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-06T01:00:55.209Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:00:55.684Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T01:32:38.420Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-06T01:32:38.422Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:32:38.868Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:32:39.813Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T01:32:47.419Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-06T01:32:47.437Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:32:47.790Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:32:47.811Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T01:45:05.360Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-06T01:45:05.361Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:45:06.497Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:45:06.537Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T01:45:10.038Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-06T01:45:10.040Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:45:10.431Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:45:10.443Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T01:56:25.596Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-06T01:56:25.598Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:56:25.961Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T01:56:25.968Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T14:00:43.246Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T14:00:43.643Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T14:30:09.659Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T14:30:10.006Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T14:32:07.772Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T14:32:08.117Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T14:34:18.643Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T14:34:19.010Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T18:00:47.504Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T18:00:47.891Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T19:05:38.779Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T19:05:39.209Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T21:01:18.694Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T21:01:19.069Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T21:08:31.413Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T21:08:31.765Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T21:09:27.792Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T21:09:28.156Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T21:11:12.598Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T21:11:12.999Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T21:14:35.639Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T21:14:36.068Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T21:14:45.677Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T21:14:46.066Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T21:14:52.862Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T21:14:53.271Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T23:08:22.446Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T23:08:22.800Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T23:10:52.983Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T23:10:53.336Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T23:13:55.591Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T23:13:55.948Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T23:14:09.081Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T23:14:09.433Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T23:29:13.171Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T23:29:13.573Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-06T23:29:30.774Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-06T23:29:31.141Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T00:14:33.965Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T00:14:34.329Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T00:19:32.197Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T00:19:32.591Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T18:36:02.504Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T18:36:02.873Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T18:36:13.575Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T18:36:13.938Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T18:40:29.999Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T18:40:30.001Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T18:40:30.359Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T18:40:30.372Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T18:43:39.508Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T18:43:39.507Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T18:43:39.884Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T18:43:39.889Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T18:57:30.515Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T18:57:30.516Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T18:57:30.922Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T18:57:30.938Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T19:01:03.080Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T19:01:03.084Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T19:01:03.451Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T19:01:03.466Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T19:02:58.201Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T19:02:58.203Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T19:02:58.582Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T19:02:58.591Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T21:20:50.310Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T21:20:50.311Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T21:20:50.665Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T21:20:50.669Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T21:26:16.255Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T21:26:16.260Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T21:26:16.631Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T21:26:16.669Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T21:26:59.642Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T21:26:59.993Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T22:09:32.594Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T22:09:32.593Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T22:09:33.005Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T22:09:33.015Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T22:09:41.816Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T22:09:41.832Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T22:09:42.188Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T22:09:42.188Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T22:14:22.260Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T22:14:22.266Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T22:14:22.606Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T22:14:22.620Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T22:14:29.109Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T22:14:29.515Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T23:06:44.602Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T23:06:44.603Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T23:06:44.954Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T23:06:44.970Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T23:06:54.952Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T23:06:55.302Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T23:07:12.538Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T23:07:12.889Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-07T23:31:10.693Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-07T23:31:10.709Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T23:31:11.050Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-07T23:31:11.055Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-08T00:05:20.960Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-08T00:05:20.963Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-08T00:05:21.333Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-08T00:05:21.339Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-08T00:05:29.242Z"}
+{"level":"info","message":"Server running on port 5001","service":"task-management-api","timestamp":"2025-09-08T00:05:29.243Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-08T00:05:29.604Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-08T00:05:29.614Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T19:19:43.723Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T19:19:44.093Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T20:57:19.220Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T20:57:19.601Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T21:17:07.235Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T21:17:07.608Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T21:17:19.433Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T21:17:19.815Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T21:28:06.151Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T21:28:06.503Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T21:42:22.713Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T21:42:23.059Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T21:50:58.258Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T21:50:58.584Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T23:26:03.978Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T23:26:04.322Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T23:35:43.595Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T23:35:43.952Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T23:39:45.218Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T23:39:45.544Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-09T23:55:14.329Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-09T23:55:14.682Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-10T00:34:16.148Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-10T00:34:16.504Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-10T00:34:18.727Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-10T00:34:19.069Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-10T00:51:38.544Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-10T00:51:38.870Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-10T00:57:13.814Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-10T00:57:14.160Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-10T01:00:48.941Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-10T01:00:49.258Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-10T09:25:03.037Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-10T09:25:03.533Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T19:45:46.540Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T19:45:46.940Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T21:25:49.730Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T21:25:50.071Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T21:26:57.996Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T21:26:58.342Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T21:36:06.722Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T21:36:07.062Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T21:40:39.865Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T21:40:40.194Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T21:44:41.934Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T21:44:42.270Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T21:47:12.637Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T21:47:12.979Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T21:52:36.816Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T21:52:37.176Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T21:52:46.828Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T21:52:47.185Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T22:12:04.916Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T22:12:05.273Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T23:45:07.093Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T23:45:07.443Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-17T23:45:23.506Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-17T23:45:23.853Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-18T00:02:23.273Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-18T00:02:23.606Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-09-18T00:30:36.311Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-09-18T00:30:36.669Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T16:34:32.575Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T16:34:33.321Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T19:47:00.611Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T19:47:01.014Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T19:47:07.528Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T19:47:08.873Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T19:56:21.641Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T19:56:22.094Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T19:56:25.888Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T19:56:26.255Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T19:56:54.558Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T19:56:54.906Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T19:59:21.057Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T19:59:21.402Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T19:59:35.129Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T19:59:35.538Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T19:59:37.664Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T19:59:38.051Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T20:02:12.123Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T20:02:12.471Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T20:11:56.348Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T20:11:56.703Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T20:12:50.452Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T20:12:50.845Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T20:14:15.800Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T20:14:16.150Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T20:15:05.099Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T20:15:05.505Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-10-31T20:16:13.464Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-10-31T20:16:13.989Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-11-08T09:31:05.344Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-11-08T09:31:05.785Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2025-11-08T09:39:57.818Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2025-11-08T09:39:58.172Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-01-19T09:05:47.781Z"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-01-19T09:05:47.800Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-01-19T09:22:07.217Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-01-19T09:22:25.412Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-01-19T09:44:22.725Z"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-01-19T09:44:22.746Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:31:49.069Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-02-19T13:32:16.320Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:33:26.562Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:33:27.075Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:49:22.676Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:49:24.212Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:49:34.681Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:49:35.323Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:49:41.946Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:49:42.475Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:49:54.838Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:49:55.508Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:50:09.305Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:50:09.799Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:50:37.591Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:50:38.167Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:51:11.996Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:51:12.450Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:51:25.350Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:51:25.884Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:51:33.879Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:51:34.377Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:52:00.825Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:52:01.259Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:52:16.464Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:52:16.962Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:52:31.547Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:52:32.008Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:52:48.478Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:52:48.966Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:53:02.984Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:53:03.352Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:53:17.607Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:53:18.061Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:53:29.131Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:53:29.645Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:53:49.840Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:53:50.281Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:53:58.090Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:53:58.572Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:54:36.593Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:54:37.035Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-02-19T13:54:47.773Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-02-19T13:54:48.225Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:33:29.044Z"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.fsz2cgz.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.fsz2cgz.mongodb.net","service":"task-management-api","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.fsz2cgz.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-04-26T14:33:29.055Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:34:46.601Z"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-04-26T14:34:46.694Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:38:55.432Z"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-04-26T14:38:55.440Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:39:01.589Z"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-04-26T14:39:01.603Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:39:04.996Z"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-04-26T14:39:05.028Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:39:08.592Z"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-04-26T14:39:08.615Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:39:11.895Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:39:23.978Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:41:01.219Z"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-04-26T14:41:01.238Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:42:00.102Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:42:51.199Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-04-26T14:43:12.395Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:44:56.663Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:50:52.799Z"}
+{"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-vtqymv-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"service":"task-management-api","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\mongoose\\lib\\connection.js:791:11)","timestamp":"2026-04-26T14:51:22.909Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:52:35.332Z"}
+{"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-vtqymv-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"service":"task-management-api","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\mongoose\\lib\\connection.js:791:11)","timestamp":"2026-04-26T14:53:05.410Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:53:32.720Z"}
+{"code":"ENOTFOUND","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-04-26T14:53:32.731Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:53:38.435Z"}
+{"code":"ETIMEOUT","hostname":"_mongodb._tcp.cluster0.mmfdhwm.mongodb.net","level":"error","message":"MongoDB connection error: querySrv ETIMEOUT _mongodb._tcp.cluster0.mmfdhwm.mongodb.net","service":"task-management-api","stack":"Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.mmfdhwm.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","syscall":"querySrv","timestamp":"2026-04-26T14:54:00.657Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T14:57:44.403Z"}
+{"level":"error","message":"MongoDB connection error: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":"atlas-vtqymv-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"service":"task-management-api","stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\mongoose\\lib\\connection.js:816:11)\n    at NativeConnection.openUri (C:\\Users\\yadab\\OneDrive\\Desktop\\productive testing\\server\\node_modules\\mongoose\\lib\\connection.js:791:11)","timestamp":"2026-04-26T14:58:14.472Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-04-26T15:02:43.329Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-04-26T15:02:43.857Z"}
