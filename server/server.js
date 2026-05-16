@@ -41,10 +41,7 @@ app.use(express.urlencoded({ limit: '10mb', extended: true }));
 
 // Allowed origins (dev defaults)
 const allowedOrigins = [
-  'http://localhost:5173',
-  'http://localhost:3000',
-  'http://localhost:5174',
-  'http://localhost:5175'
+ process.env.CORS_ORIGIN || 'http://localhost:3000',
 ];
 
 // Simple CORS middleware
