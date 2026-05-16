@@ -3,6 +3,9 @@ import { MessageCircle, Search, Plus, Sparkles } from 'lucide-react';
 import { useChat } from '../../contexts/ChatContext';
 import { useAuth } from '../../contexts/AuthContext';
 
+
+const apiBaseUrl = import.meta.env.VITE_API_URL ;
+
 const ChatSidebar = ({ onSelectChat, selectedChat, onNewChat }) => {
   const [searchTerm, setSearchTerm] = useState('');
   const { chats, loading } = useChat();
@@ -50,7 +53,7 @@ const ChatSidebar = ({ onSelectChat, selectedChat, onNewChat }) => {
     if (userData.photoUrl) {
       return (
         <img
-          src={`http://localhost:5000${userData.photoUrl}`}
+          src={`${apiBaseUrl}${userData.photoUrl}`}
           alt={userData.name}
           className={`${size} rounded-full object-cover`}
           onError={(e) => {

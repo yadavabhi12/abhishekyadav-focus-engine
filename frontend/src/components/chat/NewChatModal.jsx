@@ -15,6 +15,12 @@ import Modal from '../ui/Modal';
 import Button from '../ui/Button';
 import Input from '../ui/Input';
 
+
+
+const apiBaseUrl = import.meta.env.VITE_API_URL ;
+
+
+
 const NewChatModal = ({ onClose, onChatCreated }) => {
   const [step, setStep] = useState('type');
   const [chatType, setChatType] = useState('direct');
@@ -209,7 +215,7 @@ const handleCreateChat = async () => {
                 >
                   {user.photoUrl ? (
                     <img
-                      src={`http://localhost:5000${user.photoUrl}`}
+                      src={`${apiBaseUrl}${user.photoUrl}`}
                       alt={user.name}
                       className="h-10 w-10 rounded-full object-cover mr-3"
                       onError={(e) => {

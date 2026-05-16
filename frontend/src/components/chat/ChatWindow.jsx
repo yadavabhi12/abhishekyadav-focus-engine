@@ -10,6 +10,9 @@ import { toast } from 'react-hot-toast';
 import Modal from '../ui/Modal';
 import Button from '../ui/Button';
 
+
+const apiBaseUrl = import.meta.env.VITE_API_URL ;
+
 const ChatWindow = ({ chat, onBack }) => {
   const [newMessage, setNewMessage] = useState('');
   const [sending, setSending] = useState(false);
@@ -127,7 +130,7 @@ const ChatWindow = ({ chat, onBack }) => {
     if (!window.confirm('Are you sure you want to clear all messages in this chat?')) return;
 
     try {
-      const response = await fetch(`http://localhost:5000/api/v1/chat/${chat._id}/clear`, {
+      const response = await fetch(`${apiBaseUrl}/api/v1/chat/${chat._id}/clear`, {
         method: 'DELETE',
         headers: {
           'Authorization': `Bearer ${token}`,
@@ -163,7 +166,7 @@ const ChatWindow = ({ chat, onBack }) => {
 
   const downloadFile = (fileUrl, fileName) => {
     const link = document.createElement('a');
-    link.href = `http://localhost:5000${fileUrl}`;
+    link.href = `${apiBaseUrl}/${fileUrl}`;
     link.download = fileName;
     document.body.appendChild(link);
     link.click();
@@ -221,7 +224,7 @@ const ChatWindow = ({ chat, onBack }) => {
     if (userData.photoUrl) {
       return (
         <img
-          src={`http://localhost:5000${userData.photoUrl}`}
+          src={`${apiBaseUrl}/${userData.photoUrl}`}
           alt={userData.name}
           className={`${size} rounded-full object-cover border-2 border-white shadow-sm`}
           onError={(e) => {
@@ -408,10 +411,12 @@ const ChatWindow = ({ chat, onBack }) => {
                           }`}
                         >
                           {message.messageType === 'image' ? (
-                            <div className="cursor-pointer group/image" onClick={() => window.open(`http://localhost:5000${message.fileUrl}`, '_blank')}>
+                            <div className="cursor-pointer group/image" onClick={() => window.open(`${apiBaseUrl}/${message.fileUrl}`, '_blank')}>
                               <div className="overflow-hidden rounded-lg">
+
+                              
                                 <img
-                                  src={`http://localhost:5000${message.fileUrl}`}
+                                  src={`${apiBaseUrl}${message.fileUrl}`}
                                   alt="Shared image"
                                   className="max-w-full h-auto max-h-64 object-cover transition-transform duration-300 group-hover/image:scale-105"
                                   onError={(e) => {
@@ -623,7 +628,7 @@ const AddMembersModal = ({ chat, onClose, onAddMembers, onRemoveMember }) => {
     }
 
     try {
-      const response = await fetch(`http://localhost:5000/api/v1/chat/users/search?query=${encodeURIComponent(query)}`, {
+      const response = await fetch(`${apiBaseUrl}/api/v1/chat/users/search?query=${encodeURIComponent(query)}`, {
         headers: {
           'Authorization': `Bearer ${token}`
         }
@@ -673,7 +678,7 @@ const AddMembersModal = ({ chat, onClose, onAddMembers, onRemoveMember }) => {
     if (userData.photoUrl) {
       return (
         <img
-          src={`http://localhost:5000${userData.photoUrl}`}
+          src={`${apiBaseUrl}/${userData.photoUrl}`}
           alt={userData.name}
           className={`${size} rounded-full object-cover border-2 border-white shadow-sm`}
           onError={(e) => {
@@ -812,7 +817,7 @@ const GroupInfoModal = ({ chat, onClose, onRemoveMember, onDeleteGroup, isAdmin 
     if (userData.photoUrl) {
       return (
         <img
-          src={`http://localhost:5000${userData.photoUrl}`}
+          src={`${apiBaseUrl}/${userData.photoUrl}`}
           alt={userData.name}
           className={`${size} rounded-full object-cover border-2 border-white shadow-sm`}
           onError={(e) => {
