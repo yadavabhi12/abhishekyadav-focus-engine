@@ -1041,3 +1041,9 @@
 {"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-04-27T09:05:54.806Z"}
 {"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-05-07T14:48:55.034Z"}
 {"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-05-07T14:48:55.502Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-05-16T16:14:08.696Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-05-16T16:14:09.209Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-05-16T16:19:18.074Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-05-16T16:19:18.554Z"}
+{"level":"info","message":"Server running on port 5000","service":"task-management-api","timestamp":"2026-05-16T16:20:03.196Z"}
+{"level":"info","message":"Connected to MongoDB","service":"task-management-api","timestamp":"2026-05-16T16:20:03.650Z"}
